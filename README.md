@@ -9,11 +9,11 @@
 If you think that these can be improved in any way, please do suggest.
 
 ## 📚导航栏
-| 语言      | 工具库     | 操作系统     | 设计手法        | 协议        | 数据库     | 开发辅助工具 | 开源项目  |
-| ----     |  ----      | ----        | ----            | ----        | ----     |   ----      | ----      |
-| [C](#C)        | C++ 标准库  | 操作系统    | 算法与数据结构   | 计算机网络   |           |             |           |
-| C++      | Boost      | Linux 内核  | 设计模式         |             |          |             |           |
-| 编译原理  | Linux API  |             | 多线程设计      |             |           |             |           |
+| 语言                  | 工具库                     | 操作系统                   | 设计手法                          | 协议        | 数据库     | 开发辅助工具 | 开源项目  |
+| ----                  |  ----                     | ----                      | ----                              | ----        | ----     |   ----      | ----      |
+| [C](#C)               | [C++ 标准库](#C++ 标准库)  | 操作系统                   | [算法与数据结构](#算法与数据结构)   | 计算机网络   |           |             |           |
+| [C++](#C++)           | [Boost](#Boost)           | [Linux 内核](#Linux 内核)  | 设计模式                          |              |          |             |           |
+| [编译原理](#编译原理)  | [Linux API](#Linux API）   |                           | 多线程设计                        |              |           |             |           |
 
 🔴🟠🟡🟢🔵🟣🟤⚫⚪<br>
 🟢 -- 作者读过，推荐<br>
@@ -26,31 +26,29 @@ If you think that these can be improved in any way, please do suggest.
 | ⚫《C Primer Plus》 | ⚫《C和指针》 | ⚫《C专家编程》 |
 
 ## C++
-|                          |                                    |                         |                          |
-| ----                     | ----                               | ----                    | ----                     |
-| 🟢《C++ Primer》         | 《Effictive C++》                   | 《More Effictive C++》  | 《Effictive Morden C++》  |
-| 《深度探索C++对象模型》    | 《The Design and Evolution of C++》 |   《Essential C++》      |                          |
+|                             |                                      |                           |                             |
+| ----                        | ----                                 | ----                      | ----                        |
+| 🟢《C++ Primer》            | ⚫《Effictive C++》                  | ⚫《More Effictive C++》  | ⚫《Effective Morden C++》  |
+| ⚫《深度探索C++对象模型》    | ⚫《The Design and Evolution of C++》 | ⚫《Accelerated C++》    |                             |
 
 ## 编译原理
-|                                  |                       |
-| ----                             | ----                  |
-| 《程序员的自我修养:链接、装载与库》 | 《linker and loader》 |
-| 《编译原理》 | 《 Compilers: Principles, Techniques, and Tools 》 |
-| 《编程原本》 |                                         |
-
+|                                                    |                           |
+| ----                                               | ----                      |
+| ⚫《程序员的自我修养:链接、装载与库》                 | ⚫《linkers and loaders》 |
+| ⚫《Compilers: Principles, Techniques, and Tools》 |                           |
 
 ##  C++ 标准库
-|               |                |                                    |
-| ----          | ----           | ----                               |
-| 《C++ 标准库》 | 《STL源码剖析》 | 《泛型编程与STL--Templates高阶技术》 |
+|                  |                     |                   |                                       |
+| ----             | ----                | ----              |                                       |
+| 🟢《C++ 标准库》 | ⚫《Effective STL》 | ⚫《STL源码剖析》  | ⚫《泛型编程与STL--Templates高阶技术》 |
 
 ## Boost
 Boost 官方手册
 
 ## Linux API
-|                      |                  |
-| ----                 | ----             |
-| 《Unix 环境高阶编程》 | 《Unix 网络编程》 |
+|                        |                     |
+| ----                   | ----                |
+| 🟢《Unix 环境高阶编程》 | ⚫《Unix 网络编程》 |
 
 ## 操作系统
 |               |                |                                    |
@@ -61,16 +59,16 @@ Boost 官方手册
 | 《操作系统概念》 |             |          |
 
 ## Linux 内核
-|               |                |                                    |
-| ----          | ----           | ----                               |
-| 《Linux内核的设计艺术》 | 《Linux 内核设计与实现》 | 《深入Linux内核架构》 |
+|                          |                           |                        |
+| ----                     | ----                      | ----                   |
+| ⚫《Linux内核的设计艺术》 | ⚫《Linux 内核设计与实现》 | ⚫《深入Linux内核架构》 |
 
 
 ## 算法与数据结构
-|               |                |                                    |
-| ----          | ----           | ----                               |
-| 《大话数据结构》 | 《编程珠玑》 | 《编程之美》 |
-| 《算法》 | 《算法导论》 | 《剑指Offer》 |
+|                   |                 |               |
+| ----              | ----            | ----          |
+| ⚫《大话数据结构》 | ⚫《编程珠玑》  | ⚫《编程之美》 |
+| ⚫《算法》        | ⚫《剑指Offer》 |               |
 
 ## 设计模式
 |               |                |                                    |
